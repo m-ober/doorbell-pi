@@ -6,4 +6,6 @@ cool_down_in_s: 5
 rolling_window_size: 250
 telegram_bot_token: TELEGRAM_BOT_TOKEN
 telegram_chat_id: TELEGRAM_CHAT_ID
+pushover_app_key: null
+pushover_user_key: null
 log_level: INFO
